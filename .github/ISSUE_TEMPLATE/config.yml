@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/flowwarden-io/.github/blob/main/SECURITY.md
+    about: Please report security vulnerabilities privately via the security policy, NOT via a public issue.
+  - name: FlowWarden website
+    url: https://flowwarden.io
+    about: Documentation, examples, and project information.
