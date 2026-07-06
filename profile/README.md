@@ -10,6 +10,8 @@ FlowWarden ships small, focused libraries that integrate cleanly with the Spring
 |---|---|
 | **[flowwarden-stream-core](https://github.com/flowwarden-io/flowwarden-stream-core)** | Declarative MongoDB Change Streams for Spring Boot — resilient, annotation-driven, zero-config |
 | **[flowwarden-javers](https://github.com/flowwarden-io/flowwarden-javers)** | Native Javers audit stream integration — deserialized audit changes in real time via `@JaversStream` handlers |
+| **[flowwarden-redis](https://github.com/flowwarden-io/flowwarden-redis)** | Redis-backed `LockService` and `CheckpointStore` backends for Stream Core |
+| **[flowwarden-amqp](https://github.com/flowwarden-io/flowwarden-amqp)** | AMQP (RabbitMQ) publish-only dead-letter queue store for Stream Core |
 | **[flowwarden-examples](https://github.com/flowwarden-io/flowwarden-examples)** | Copy-paste-friendly Spring Boot samples for FlowWarden Stream Core (imperative + reactive) |
 
 More libraries coming. See individual repositories for documentation, releases, and contribution guidelines.
