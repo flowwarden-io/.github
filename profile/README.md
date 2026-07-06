@@ -9,6 +9,7 @@ FlowWarden ships small, focused libraries that integrate cleanly with the Spring
 | Library | What it does |
 |---|---|
 | **[flowwarden-stream-core](https://github.com/flowwarden-io/flowwarden-stream-core)** | Declarative MongoDB Change Streams for Spring Boot — resilient, annotation-driven, zero-config |
+| **[flowwarden-javers](https://github.com/flowwarden-io/flowwarden-javers)** | Native Javers audit stream integration — deserialized audit changes in real time via `@JaversStream` handlers |
 | **[flowwarden-examples](https://github.com/flowwarden-io/flowwarden-examples)** | Copy-paste-friendly Spring Boot samples for FlowWarden Stream Core (imperative + reactive) |
 
 More libraries coming. See individual repositories for documentation, releases, and contribution guidelines.
